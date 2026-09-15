@@ -2,7 +2,7 @@
 
 An end-to-end machine learning project that predicts house sale prices in Ames, Iowa — from raw, messy data all the way to a live, deployed app anyone can use.
 
-**[Try it live](ames-housing-price-prediction-production.up.railway.app/docs)** →
+**[Try it live](ames-housing-price-prediction-production.up.railway.app/docs)** ↗
 
 ---
 
